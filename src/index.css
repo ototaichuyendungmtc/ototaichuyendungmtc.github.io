@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+@theme {
+  --color-industrial-green: #4ade80;
+  /* A vibrant green for accents */
+  --color-industrial-dark: #0a0a0a;
+  /* Deep dark background */
+  --color-industrial-gray: #1f1f1f;
+  /* Secondary dark */
+  --color-industrial-steel: #e5e5e5;
+  /* White/Steel text */
+
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-display: "Oswald", sans-serif;
+  /* Industrial feel for headers */
+}
+
+@layer base {
+  :root {
+    --color-industrial-green: #4ade80;
+    --color-industrial-dark: #0a0a0a;
+    --color-industrial-gray: #1f1f1f;
+    --color-industrial-steel: #e5e5e5;
+  }
+
+  .light {
+    --color-industrial-green: #15803d;
+    --color-industrial-dark: #ffffff;
+    --color-industrial-gray: #f3f4f6;
+    --color-industrial-steel: #111827;
+  }
+}
+
+:root {
+  font-family: var(--font-sans);
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: dark;
+  color: var(--color-industrial-steel);
+  background-color: var(--color-industrial-dark);
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: var(--color-industrial-dark);
+  overflow-x: hidden;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-industrial-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-industrial-gray);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-industrial-green);
+}
+
+/* Utility for text selection */
+::selection {
+  background: var(--color-industrial-green);
+  color: var(--color-industrial-dark);
+}

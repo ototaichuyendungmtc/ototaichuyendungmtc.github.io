@@ -1,0 +1,427 @@
+[
+  {
+    "id": "environment",
+    "label": "XE MÔI TRƯỜNG: BẢO VỆ SỰ SỐNG XANH",
+    "products": [
+      {
+        "name": "Xe ô tô chở rác 15 khối CHENGLONG - HẢI ÂU",
+        "images": [
+          "/images/products/IMG_20251127_183624.jpg",
+          "/images/products/IMG_20251127_183628.jpg"
+        ],
+        "description": "Xe ô tô chở rác 15 khối CHENGLONG - HẢI ÂU",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "15 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "CHENGLONG - HẢI ÂU"
+        }
+      },
+      {
+        "name": "Xe ô tô chở rác 14 khối HINO FG8JJ8A",
+        "images": [
+          "/images/products/IMG_20251127_183634.jpg",
+          "/images/products/IMG_20251127_183636.jpg"
+        ],
+        "description": "Xe ô tô chở rác 14 khối HINO FG8JJ8A",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "14 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "HINO FG8JJ8A"
+        }
+      },
+      {
+        "name": "Xe ô tô chở rác 14 khối HINO FG8JJ8A",
+        "images": [
+          "/images/products/IMG_20251127_183641.jpg",
+          "/images/products/IMG_20251127_183655.jpg"
+        ],
+        "description": "Xe ô tô chở rác 14 khối HINO FG8JJ8A",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "14 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "HINO FG8JJ8A"
+        }
+      },
+      {
+        "name": "Xe ô tô chở rác 9 khối ISUZU FRR90HE5",
+        "images": [
+          "/images/products/IMG_20251127_183718.jpg",
+          "/images/products/IMG_20251127_183729.jpg"
+        ],
+        "description": "Xe ô tô chở rác 9 khối ISUZU FRR90HE5",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "9 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "ISUZU FRR90HE5"
+        }
+      },
+      {
+        "name": "Xe ô tô chở rác 6 khối HINO XZ650L-WKMRS3",
+        "images": [
+          "/images/products/IMG_20251127_183737.jpg",
+          "/images/products/IMG_20251127_183741.jpg"
+        ],
+        "description": "Xe ô tô chở rác 6 khối HINO XZ650L-WKMRS3",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "6 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "HINO XZ650L-WKMRS3"
+        }
+      },
+      {
+        "name": "Xe ô tô chở rác 5 khối KIA K250",
+        "images": [
+          "/images/products/IMG_20251127_183752.jpg",
+          "/images/products/IMG_20251127_183758.jpg"
+        ],
+        "description": "Xe ô tô chở rác 5 khối KIA K250",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "5 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "KIA K250"
+        }
+      },
+      {
+        "name": "Xe ô tô chở rác 8 khối ISUZU NQR75HE5",
+        "images": [
+          "/images/products/IMG_20251127_183805.jpg",
+          "/images/products/IMG_20251127_183808.jpg"
+        ],
+        "description": "Xe ô tô chở rác 8 khối ISUZU NQR75HE5",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "8 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "ISUZU NQR75HE5"
+        }
+      },
+      {
+        "name": "Xe ô tô chở rác 5 khối KIA K200",
+        "images": [
+          "/images/products/IMG_20251127_183821.jpg",
+          "/images/products/IMG_20251127_183834.jpg"
+        ],
+        "description": "Xe ô tô chở rác 5 khối KIA K200",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "5 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "KIA K200"
+        }
+      },
+      {
+        "name": "Xe ô tô chở rác 14 khối ISUZU FVR34",
+        "images": [
+          "/images/products/IMG_20251127_183843.jpg",
+          "/images/products/IMG_20251127_183850.jpg"
+        ],
+        "description": "Xe ô tô chở rác 14 khối ISUZU FVR34",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "14 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "ISUZU FVR34"
+        }
+      },
+      {
+        "name": "Xe ô tô chở bùn 5 khối ISUZU FRR90HE5",
+        "images": [
+          "/images/products/IMG_20251127_183916.jpg",
+          "/images/products/IMG_20251127_183924.jpg"
+        ],
+        "description": "Xe ô tô chở bùn 5 khối ISUZU FRR90HE5",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "5 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "ISUZU FRR90HE5"
+        }
+      },
+      {
+        "name": "Xe ô tô hút chất thải 11 khối HINO FM8",
+        "images": [
+          "/images/products/IMG_20251127_183933.jpg",
+          "/images/products/IMG_20251127_183938.jpg"
+        ],
+        "description": "Xe ô tô hút chất thải 11 khối HINO FM8",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "11 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "HINO FM8"
+        }
+      },
+      {
+        "name": "Xe ô tô hút bùn - thông cống áp lực cao CHENGLONG - HẢI ÂU",
+        "images": [
+          "/images/products/IMG_20251127_184006.jpg",
+          "/images/products/IMG_20251127_184014.jpg"
+        ],
+        "description": "Xe ô tô hút bùn - thông cống áp lực cao CHENGLONG - HẢI ÂU",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "Đang cập nhật",
+          "engine": "Đang cập nhật",
+          "chassis": "CHENGLONG - HẢI ÂU"
+        }
+      },
+      {
+        "name": "Xe ô tô hút bùn - thông cống áp lực cao HINO FC9",
+        "images": [
+          "/images/products/IMG_20251127_184025.jpg",
+          "/images/products/IMG_20251127_184032.jpg"
+        ],
+        "description": "Xe ô tô hút bùn - thông cống áp lực cao HINO FC9",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "Đang cập nhật",
+          "engine": "Đang cập nhật",
+          "chassis": "HINO FC9"
+        }
+      },
+      {
+        "name": "Xe ô tô chở rác 21 khối HINO FM8JN8A",
+        "images": [
+          "/images/products/IMG_20251127_184044.jpg",
+          "/images/products/IMG_20251127_184047.jpg"
+        ],
+        "description": "Xe ô tô chở rác 21 khối HINO FM8JN8A",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "21 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "HINO FM8JN8A"
+        }
+      },
+      {
+        "name": "Xe ô tô chở rác 21 khối ISUZU FVR34",
+        "images": [
+          "/images/products/IMG_20251127_184056.jpg",
+          "/images/products/IMG_20251127_184059.jpg"
+        ],
+        "description": "Xe ô tô chở rác 21 khối ISUZU FVR34",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "21 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "ISUZU FVR34"
+        }
+      },
+      {
+        "name": "Xe ô tô chở rác 9 khối HYUNDAI",
+        "images": [
+          "/images/products/IMG_20251127_184104.jpg",
+          "/images/products/IMG_20251127_184106.jpg"
+        ],
+        "description": "Xe ô tô chở rác 9 khối HYUNDAI",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "9 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "HYUNDAI"
+        }
+      },
+      {
+        "name": "Xe ô tô chở rác 21 khối ISUZU FVZ34",
+        "images": [
+          "/images/products/IMG_20251127_184112.jpg",
+          "/images/products/IMG_20251127_184117.jpg"
+        ],
+        "description": "Xe ô tô chở rác 21 khối ISUZU FVZ34",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "21 m³",
+          "engine": "Đang cập nhật",
+          "chassis": "ISUZU FVZ34"
+        }
+      },
+      {
+        "name": "Xe ô tô thông cống áp lực cao HINO FG8",
+        "images": [
+          "/images/products/IMG_20251127_184159.jpg",
+          "/images/products/IMG_20251127_184211.jpg"
+        ],
+        "description": "Xe ô tô thông cống áp lực cao HINO FG8",
+        "specs": [
+          {
+            "label": "Năm sản xuất",
+            "value": "2024"
+          },
+          {
+            "label": "Tình trạng",
+            "value": "Mới 100%"
+          }
+        ],
+        "parameters": {
+          "payload": "Đang cập nhật",
+          "engine": "Đang cập nhật",
+          "chassis": "HINO FG8"
+        }
+      }
+    ]
+  },
+  {
+    "id": "construction",
+    "label": "XE CÔNG TRÌNH & VẬN TẢI CHUYÊN DỤNG",
+    "products": []
+  }
+]
