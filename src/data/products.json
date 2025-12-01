@@ -12,8 +12,8 @@
         "description": "Xe ô tô chở rác 15 khối CHENGLONG - HẢI ÂU",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Việt Nam"
           },
           {
             "label": "Tình trạng",
@@ -35,8 +35,8 @@
         "description": "Xe ô tô chở rác 14 khối HINO FG8JJ8A",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật Bản"
           },
           {
             "label": "Tình trạng",
@@ -58,8 +58,8 @@
         "description": "Xe ô tô chở rác 14 khối HINO FG8JJ8A",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật Bản"
           },
           {
             "label": "Tình trạng",
@@ -81,8 +81,8 @@
         "description": "Xe ô tô chở rác 9 khối ISUZU FRR90HE5",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật Bản"
           },
           {
             "label": "Tình trạng",
@@ -104,8 +104,8 @@
         "description": "Xe ô tô chở rác 6 khối HINO XZ650L-WKMRS3",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật Bản"
           },
           {
             "label": "Tình trạng",
@@ -127,8 +127,8 @@
         "description": "Xe ô tô chở rác 5 khối KIA K250",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Hàn Quốc"
           },
           {
             "label": "Tình trạng",
@@ -150,8 +150,8 @@
         "description": "Xe ô tô chở rác 8 khối ISUZU NQR75HE5",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật Bản"
           },
           {
             "label": "Tình trạng",
@@ -173,8 +173,8 @@
         "description": "Xe ô tô chở rác 5 khối KIA K200",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Hàn Quốc"
           },
           {
             "label": "Tình trạng",
@@ -196,8 +196,8 @@
         "description": "Xe ô tô chở rác 14 khối ISUZU FVR34",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật Bản"
           },
           {
             "label": "Tình trạng",
@@ -219,8 +219,8 @@
         "description": "Xe ô tô chở bùn 5 khối ISUZU FRR90HE5",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật Bản"
           },
           {
             "label": "Tình trạng",
@@ -242,8 +242,8 @@
         "description": "Xe ô tô hút chất thải 11 khối HINO FM8",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật   Bản"
           },
           {
             "label": "Tình trạng",
@@ -265,8 +265,8 @@
         "description": "Xe ô tô hút bùn - thông cống áp lực cao CHENGLONG - HẢI ÂU",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Việt Nam"
           },
           {
             "label": "Tình trạng",
@@ -288,8 +288,8 @@
         "description": "Xe ô tô hút bùn - thông cống áp lực cao HINO FC9",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật Bản"
           },
           {
             "label": "Tình trạng",
@@ -311,8 +311,8 @@
         "description": "Xe ô tô chở rác 21 khối HINO FM8JN8A",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật Bản"
           },
           {
             "label": "Tình trạng",
@@ -334,8 +334,8 @@
         "description": "Xe ô tô chở rác 21 khối ISUZU FVR34",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật Bản"
           },
           {
             "label": "Tình trạng",
@@ -357,8 +357,8 @@
         "description": "Xe ô tô chở rác 9 khối HYUNDAI",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Hàn Quốc"
           },
           {
             "label": "Tình trạng",
@@ -380,8 +380,8 @@
         "description": "Xe ô tô chở rác 21 khối ISUZU FVZ34",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật Bản"
           },
           {
             "label": "Tình trạng",
@@ -403,8 +403,8 @@
         "description": "Xe ô tô thông cống áp lực cao HINO FG8",
         "specs": [
           {
-            "label": "Năm sản xuất",
-            "value": "2024"
+            "label": "Xuất xứ",
+            "value": "Nhật Bản"
           },
           {
             "label": "Tình trạng",
@@ -418,10 +418,5 @@
         }
       }
     ]
-  },
-  {
-    "id": "construction",
-    "label": "XE CÔNG TRÌNH & VẬN TẢI CHUYÊN DỤNG",
-    "products": []
   }
 ]

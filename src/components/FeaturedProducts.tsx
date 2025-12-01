@@ -9,6 +9,37 @@ export const FeaturedProducts = () => {
 
     const activeCategory = siteConfig.featuredProducts.categories.find(c => c.id === activeTabId);
 
+    const handleDownloadCSV = () => {
+        const headers = ['Category', 'Name', 'Description', 'Specs', 'Payload', 'Engine', 'Chassis'];
+        const rows: string[] = [];
+
+        siteConfig.featuredProducts.categories.forEach(category => {
+            category.products.forEach(product => {
+                const specs = product.specs.map(s => `${s.label}: ${s.value}`).join('; ');
+                const row = [
+                    category.label,
+                    product.name,
+                    product.description,
+                    specs,
+                    product.parameters?.payload || '',
+                    product.parameters?.engine || '',
+                    product.parameters?.chassis || ''
+                ].map(field => `"${field.replace(/"/g, '""')}"`);
+                rows.push(row.join(','));
+            });
+        });
+
+        const csvContent = '\uFEFF' + [headers.join(','), ...rows].join('\n');
+        const blob = new Blob([csvContent], { type: 'text/csv;charset=utf-8;' });
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = 'products.csv';
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    };
+
     return (
         <section id="fleet" className="py-24 bg-industrial-dark relative overflow-hidden">
             {/* Background Elements */}
@@ -66,7 +97,7 @@ export const FeaturedProducts = () => {
                         {activeCategory?.products.slice(-12).map((product, idx) => (
                             <div
                                 key={idx}
-                                className="group relative bg-white/5 border border-white/10 hover:border-industrial-green/50 transition-colors duration-300 overflow-hidden"
+                                className="group relative bg-white/5 border border-white/10 hover:border-industrial-green/50 transition-colors duration-300 overflow-hidden flex flex-col"
                             >
                                 {/* Image */}
                                 <div className="aspect-[4/3] overflow-hidden relative">
@@ -84,8 +115,8 @@ export const FeaturedProducts = () => {
                                 </div>
 
                                 {/* Content */}
-                                <div className="p-6">
-                                    <h3 className="text-xl font-bold text-white mb-2 group-hover:text-industrial-green transition-colors">
+                                <div className="p-6 flex flex-col justify-end grow">
+                                    <h3 className="text-xl font-bold text-white mb-2 group-hover:text-industrial-green transition-colors grow">
                                         {product.name}
                                     </h3>
                                     <p className="text-gray-400 text-sm mb-4 line-clamp-2">
@@ -115,10 +146,10 @@ export const FeaturedProducts = () => {
 
                 {/* Bottom CTA */}
                 <div className="mt-16 text-center">
-                    <a href="#contact" className="inline-flex items-center gap-2 text-industrial-green hover:text-white transition-colors uppercase tracking-widest text-sm font-bold group">
+                    <button onClick={handleDownloadCSV} className="inline-flex items-center gap-2 text-industrial-green hover:text-white transition-colors uppercase tracking-widest text-sm font-bold group">
                         Tải xuống Danh mục
                         <ArrowRight className="group-hover:translate-x-1 transition-transform" size={16} />
-                    </a>
+                    </button>
                 </div>
             </div>
         </section>

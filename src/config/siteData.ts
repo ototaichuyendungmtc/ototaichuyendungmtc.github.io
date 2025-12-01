@@ -77,7 +77,7 @@ export interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
     nav: {
-        logo: "METAL CREATE",
+        logo: "METAL CREATE.,JSC",
         links: [
             { label: "Giới thiệu", href: "#features" },
             { label: "Sản phẩm", href: "#fleet" },
@@ -86,9 +86,9 @@ export const siteConfig: SiteConfig = {
         ],
     },
     hero: {
-        company: "METAL CREATE.,JSC",
+        company: "CÔNG TY CỔ PHẦN METAL CREATE",
         title: "GIẢI PHÁP XE CHUYÊN DỤNG",
-        subtitle: "Chuyên gia công & Chế tạo Xe Tải Chuyên Dụng - Xe Môi Trường - Xe Công Trình.",
+        subtitle: "Chuyên gia công & Chế tạo Xe Tải Chuyên Dụng - Xe Môi Trường.",
         cta: "Khám phá Sản phẩm",
         backgroundImage: "/mtc-bg.avif",
     },
@@ -146,11 +146,11 @@ export const siteConfig: SiteConfig = {
     footer: {
         contact: {
             address: "Số 7, đường Trần Thủ Độ, Phường Thái Bình, Tỉnh Hưng Yên, Việt Nam",
-            phone: "0968281082",
-            email: "sales@metalcreate.com",
+            phone: "0949576767",
+            email: "metalcreate123@gmail.com",
         },
         social: [
-            { platform: "Zalo", href: "https://zalo.me/0968281082" },
+            { platform: "Zalo", href: "https://zalo.me/0949576767" },
             { platform: "Facebook", href: "https://www.facebook.com/" },
             { platform: "Youtube", href: "https://www.youtube.com/" },
         ],
